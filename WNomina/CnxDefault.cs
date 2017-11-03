@@ -8,5 +8,6 @@ namespace WNomina
     public class CnxDefault
     // Clase de prueba para control de versiones
     {
+        public void Conectar() { }
     }
 }
