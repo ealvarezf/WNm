@@ -9,5 +9,6 @@ namespace WNomina
     // Clase de prueba para control de versiones
     {
         public void Conectar() { }
+        public void Desconectar() { }
     }
 }
